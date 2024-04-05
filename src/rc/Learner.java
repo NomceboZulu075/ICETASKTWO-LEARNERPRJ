@@ -6,7 +6,7 @@ package rc;
 
 /**
  *
- * @author RC_Student_lab
+ * @author Nomcebo Zulu ST10452658
  */
 public class Learner {
 
